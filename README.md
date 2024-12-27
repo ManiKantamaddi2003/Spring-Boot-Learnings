@@ -3,6 +3,7 @@
 ## Description
 
 MyDiary is a simple web-based diary application that allows users to create, view, update, and delete diary entries. This app is built with Java using Spring Boot for the backend and JSP for the frontend. The application enables users to register, log in, and manage their diary entries efficiently.
+![image](https://github.com/user-attachments/assets/2b8b9866-6bda-40bc-9fce-cec427965b57)
 
 ## Features
 
@@ -14,6 +15,13 @@ MyDiary is a simple web-based diary application that allows users to create, vie
 - **Responsive Design:** The app is responsive and adapts well to various screen sizes.
 - **Error Handling:** Proper error handling is implemented to provide users with clear feedback on issues.
 
+- ![image](https://github.com/user-attachments/assets/732c5ed2-c24f-4766-9b20-4ffbe1bfd4f1)
+- ![image](https://github.com/user-attachments/assets/691d86da-1085-4bf5-add7-14a8ee9f3ea8)
+- ![Screenshot 2024-12-27 164858](https://github.com/user-attachments/assets/00b5eeb7-14ad-41aa-b3b7-b926582a459e)
+- ![Screenshot 2024-12-27 165134](https://github.com/user-attachments/assets/310e9e61-65ed-4620-9f03-3d91305478dc)
+- ![Screenshot 2024-12-27 165209](https://github.com/user-attachments/assets/df2aef28-cb53-4177-bab0-40da06355891)
+- ![Screenshot 2024-12-27 165300](https://github.com/user-attachments/assets/10870f62-253a-4412-8637-72c9c1b8dc55)
+- 
 ## Tech Stack
 
 - **Backend:** Spring Boot (Java)
